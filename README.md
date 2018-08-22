@@ -1,2 +1,2 @@
-# test
-test repo for merging 
+# test_main
+Testing merge of two separate repos
